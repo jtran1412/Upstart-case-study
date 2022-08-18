@@ -1,10 +1,10 @@
 # Upstart Case Study
 ## Overview and Origin of Upstart
-<br> Upstart was founded in 2012 by Dave Girouard, the former President of Google, and is headquartered in San Mateo, California. He started the company selling an Income Share Agreement product, connecting young entrepreneurs with investors, but he decided to go into the personal loan industry instead in 2014. According to Upstart's website, its mission is to enable effortless credit because "unless you’re one of the few percent of Americans with significant wealth, the price of borrowing affects you every day".
+<br> Upstart was founded in 2012 by Dave Girouard, the former President of Google, and is headquartered in San Mateo, California. He started the company selling an Income Share Agreement product, connecting young entrepreneurs with investors, but he decided to go into the personal loan industry instead in 2014. According to Upstart's website, its mission is to enable effortless credit because "unless youâ€™re one of the few percent of Americans with significant wealth, the price of borrowing affects you every day".
 <br> Upstart raised a $1.75M seed round from many famous investors including Google Ventures and Mark Cuban. They subsequently raised a series A round of $5.9M which included Eric Schmidt (Google Executive Chairman). Upstart raised a Series C round of $35M from Third Point Capital in 2015 and $32.5M from Rakuten in 2017. Upstart raised a Series D round of $50M from The Progressive Corporation in 2019.
 <br> Upstart priced its initial public offering at $20 in 2010 for market cap of $1.45 billion. It surpassed $20 billion in 2021. Today, it is worth $2.74 billion.
 ## Business Activities
-<br> Upstart operates a cloud-based AI lending platform that connects its bank partners to people looking for a loan. This means that both banks and loan seekers are its customer.  
+<br> Upstart operates a cloud-based AI lending platform that connects its bank partners to people looking for a loan. This means that both banks and loan seekers are its customers.  
 <br> The thing that makes Upstart unique is that instead of giving loans like a normal bank, it  builds loan products for banks and offers quotes on behalf of banks using AI technology.
 ## Landscape
 <br> Upstart works in the lending industry, and it is not the only company implementing AI innovations. As of now, companies in the same AI based lending domain as Upstart include Float, Plaid, Kiavi, Affirm and Earnest.
