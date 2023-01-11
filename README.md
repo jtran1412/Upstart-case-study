@@ -1,1 +1,1 @@
-This is a case study on the company Upstart. It includes the origin of Upstart, its business activities, its competitors, its moat, it's accomplishments and my reccomendations on how they can improve their business.
+This is a case study on the company Upstart. It includes the origin of Upstart, its business activities, its competitors, its moat, it's accomplishments and my recommendations on how they can improve their business.
